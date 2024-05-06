@@ -5,12 +5,12 @@
 
 <div align="center">
 <h4>Homepage</h4>
-</div>
 
 ![Home](https://imgur.com/yDNYasx.jpg)
 
-<div align="center">
+
 <h4>Test with London city</4>
-</div>
+
 
 ![Run](https://imgur.com/ylFXOEb.jpg)
+</div>
